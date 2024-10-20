@@ -1,0 +1,34 @@
+main{
+    margin: 15px;
+    width:96%; 
+    border-radius: 5px; 
+    border: 1px dashed black;
+    border-style: dotted;
+    background-color: #e6e6fa;
+    padding: 10px;
+}
+p{
+    text-indent:20px;
+}
+.gallery{
+    background-color: #909099;
+    height: 100;
+    padding: 10;
+    width:100%;    
+    border-radius:5px;
+}
+.wallpaper{
+    width:90%;
+    margin: 15px;
+    border: 1px;
+    border-style: dotted;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background: url("img/Безымянный.jpg");
+    padding: 100;
+    background-size: no-repeat;
+    border-radius:5px;
+    background-size: cover;
+    background-position: center;
+}
