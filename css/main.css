@@ -50,6 +50,17 @@ p {
         height: auto;
         margin-bottom: 10px;
     }
+    .wallpaper {
+        padding: 15px; /* Уменьшаем отступы на узких экранах */
+    }
+
+    .wallpaper h1 {
+        font-size: 1.8em; /* Уменьшаем размер заголовка */
+    }
+    
+    .wallpaper p {
+        font-size: 1em; /* Уменьшаем размер текста */
+    }
 }
 
 img {
